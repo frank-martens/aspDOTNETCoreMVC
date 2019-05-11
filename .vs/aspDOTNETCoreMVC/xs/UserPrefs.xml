@@ -1,5 +1,11 @@
 ﻿<Properties StartupConfiguration="{2E4D159E-39A1-45D8-868F-DC026D7F08FA}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="aspDOTNETCoreMVC/Startup.cs">
+    <Files>
+      <File FileName="aspDOTNETCoreMVC/Controllers/APIController.cs" Line="1" Column="1" />
+      <File FileName="aspDOTNETCoreMVC/Startup.cs" Line="52" Column="15" />
+      <File FileName="aspDOTNETCoreMVC/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.aspDOTNETCoreMVC PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />

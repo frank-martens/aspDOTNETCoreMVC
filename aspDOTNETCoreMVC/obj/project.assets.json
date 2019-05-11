@@ -7333,7 +7333,7 @@
       ]
     },
     "Newtonsoft.Json/12.0.1": {
-      "sha512": "jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "sha512": "pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
       "type": "package",
       "path": "newtonsoft.json/12.0.1",
       "files": [
@@ -12097,13 +12097,13 @@
       "projectName": "aspDOTNETCoreMVC",
       "projectPath": "/Users/frank.martens/Documents/GitHub/aspDOTNETCoreMVC/aspDOTNETCoreMVC/aspDOTNETCoreMVC.csproj",
       "packagesPath": "/Users/frank.martens/.nuget/packages/",
-      "outputPath": "/Users/frank.martens/Documents/GitHub/aspDOTNETCoreMVC/aspDOTNETCoreMVC/obj",
+      "outputPath": "/Users/frank.martens/Documents/GitHub/aspDOTNETCoreMVC/aspDOTNETCoreMVC/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/frank.martens/.config/NuGet/NuGet.Config"
+        "/Users/frank.martens/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -12128,7 +12128,8 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.2.0, )"
+            "version": "[2.2.0, )",
+            "autoReferenced": true
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
