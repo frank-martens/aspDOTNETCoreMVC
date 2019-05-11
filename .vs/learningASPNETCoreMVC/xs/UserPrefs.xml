@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2E4D159E-39A1-45D8-868F-DC026D7F08FA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="learningASPNETCoreMVC/Controllers/APIController.cs">
+    <Files>
+      <File FileName="learningASPNETCoreMVC/Controllers/APIController.cs" Line="46" Column="90" />
+      <File FileName="learningASPNETCoreMVC/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="learningASPNETCoreMVC/Program.cs" Line="1" Column="1" />
+      <File FileName="learningASPNETCoreMVC/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.learningASPNETCoreMVC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
